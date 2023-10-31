@@ -1,0 +1,1 @@
+- Bu projede html tag kullanımı üzerine çalışılmıştır.
